@@ -66,3 +66,4 @@ defineTest(__dirname, 'class', {
 defineTest(__dirname, 'class', {
   'display-name': false,
 }, 'class/class-no-display-name');
+defineTest(__dirname, 'class', null, 'class/class-arguments');
